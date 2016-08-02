@@ -17,5 +17,7 @@ int main(int arg, char *argv[])
 	printf("add b\n");
 	
 	memset(out, 0x00, sizeof(out));
+	
+	//×¢ÊÍ
 	return 0;
 }
