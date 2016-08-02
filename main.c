@@ -12,5 +12,7 @@ int main(int arg, char *argv[])
 		LogD("%s\n",argv[i]);
 	}
 
+	printf("add a\n");
+	printf("add b\n");
 	return 0;
 }
