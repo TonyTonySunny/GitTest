@@ -19,5 +19,7 @@ int main(int arg, char *argv[])
 	memset(out, 0x00, sizeof(out));
 	
 	//×¢ÊÍ
+	
+	//Ìí¼Ó×¢ÊÍ1
 	return 0;
 }
